@@ -1,4 +1,5 @@
 # Predictive Analytics of Stroke
+## Project Overview
 This project focuses on using supervised machine learning to predict stroke events. Given the critical nature of early detection and intervention for stroke patients, the goal is to identify individuals at risk and recommend the best-performing predictive model. The project evaluates five machine learning algorithms to determine the most effective approach for stroke prediction, providing insights into patient care, preventive measures, and data-driven healthcare strategies.
 
 ## Key Features
